@@ -17,6 +17,9 @@
 	<link rel="stylesheet" href="<?= base_url('css/magnific-popup.css') ?>">
 
 	<link rel="stylesheet" href="<?= base_url('css/flaticon.css') ?>">
+	<link rel="stylesheet" href="<?= base_url('css/flaticon.min.css') ?>">
+	<link rel='stylesheet' href='https://cdn-uicons.flaticon.com/2.1.0/uicons-regular-rounded/css/uicons-regular-rounded.css'>
+	<link rel='stylesheet' href='https://cdn-uicons.flaticon.com/2.1.0/uicons-solid-straight/css/uicons-solid-straight.css'>
 	<link rel="stylesheet" href="<?= base_url('css/style.css') ?>">
 </head>
 
@@ -52,7 +55,7 @@
 				<div class="container-fluid px-md-0">
 					<div class="row d-md-flex no-gutters slider-text align-items-end justify-content-end"
 						data-scrollax-parent="true">
-						<div class="one-third order-md-last img" style="background-image:url(images/bg_1.jpg);">
+						<div class="one-third order-md-last img" style="background-image:url(images/bg_1.png);">
 							<div class="overlay"></div>
 							<div class="overlay-1"></div>
 						</div>
@@ -74,7 +77,7 @@
 				<div class="container-fluid px-md-0">
 					<div class="row d-flex no-gutters slider-text align-items-end justify-content-end"
 						data-scrollax-parent="true">
-						<div class="one-third order-md-last img" style="background-image:url(images/bg_2.jpg);">
+						<div class="one-third order-md-last img" style="background-image:url(images/bg_1.png);">
 							<div class="overlay"></div>
 							<div class="overlay-1"></div>
 						</div>
@@ -161,18 +164,18 @@
 							<div class="col-md-12 heading-section ftco-animate">
 								<span class="subheading">My Intro</span>
 								<h2 class="mb-4" style="font-size: 34px; text-transform: capitalize;">About Me</h2>
-								<p>A small river named Duden flows by their place and supplies it with the necessary
-									regelialia. It is a paradisematic country, in which roasted parts of sentences fly
-									into your mouth.</p>
+								<p>As an MCA pursuing student with a passion for web development,
+									 I create websites based on client prerequisite. 
+									 Eager to apply theoretical knowledge gained in coursework to real- world scenarios.</p>
 
 								<ul class="about-info mt-4 px-md-0 px-2">
-									<li class="d-flex"><span>Name:</span> <span>Clyde Nowitzki</span></li>
-									<li class="d-flex"><span>Date of birth:</span> <span>January 01, 1990</span></li>
-									<li class="d-flex"><span>Address:</span> <span>San Francisco CA 97987 USA</span>
+									<li class="d-flex"><span>Name:</span> <span>Charanraj</span></li>
+									<li class="d-flex"><span>Date of birth:</span> <span>January 22, 2002</span></li>
+									<li class="d-flex"><span>Address:</span> <span>Annalike, Koila village, Bantwal-Dk </span>
 									</li>
-									<li class="d-flex"><span>Zip code:</span> <span>1000</span></li>
-									<li class="d-flex"><span>Email:</span> <span>cydenowitzki@gmail.com</span></li>
-									<li class="d-flex"><span>Phone: </span> <span>+1-2234-5678-9-0</span></li>
+									<li class="d-flex"><span>Zip code:</span> <span>574211</span></li>
+									<li class="d-flex"><span>Email:</span> <span>charanraj9731@gmail.com</span></li>
+									<li class="d-flex"><span>Phone: </span> <span>+91 9353649294</span></li>
 								</ul>
 							</div>
 							<div class="col-md-12">
@@ -185,15 +188,15 @@
 									</div>
 									<div class="interest-wrap d-flex align-items-center">
 										<div class="icon d-flex align-items-center justify-content-center">
-											<span class="flaticon-suitcases"></span>
+											<span><i class="fi fi-rr-earth-americas"> </i>	</span>
 										</div>
 										<div class="text">Travel</div>
 									</div>
 									<div class="interest-wrap d-flex align-items-center">
 										<div class="icon d-flex align-items-center justify-content-center">
-											<span class="flaticon-video-player"></span>
+											<span><i class="fi fi-ss-layout-fluid"></i></span>
 										</div>
-										<div class="text">Movie</div>
+										<div class="text">Designing</div>
 									</div>
 									<div class="interest-wrap d-flex align-items-center">
 										<div class="icon d-flex align-items-center justify-content-center">
@@ -975,22 +978,22 @@
 		</svg></div>
 
 
-	<script src="js/jquery.min.js"></script>
-	<script src="js/jquery-migrate-3.0.1.min.js"></script>
-	<script src="js/popper.min.js"></script>
-	<script src="js/bootstrap.min.js"></script>
-	<script src="js/jquery.easing.1.3.js"></script>
-	<script src="js/jquery.waypoints.min.js"></script>
-	<script src="js/jquery.stellar.min.js"></script>
-	<script src="js/owl.carousel.min.js"></script>
-	<script src="js/jquery.magnific-popup.min.js"></script>
-	<script src="js/jquery.animateNumber.min.js"></script>
-	<script src="js/scrollax.min.js"></script>
+	<script src="<?= base_url('js/jquery.min.js') ?>"></script>
+	<script src="<?= base_url('js/jquery-migrate-3.0.1.min.js') ?>"></script>
+	<script src="<?= base_url('js/popper.min.js') ?>"></script>
+	<script src="<?= base_url('js/bootstrap.min.js') ?>"></script>
+	<script src="<?= base_url('js/jquery.easing.1.3.js') ?>"></script>
+	<script src="<?= base_url('js/jquery.waypoints.min.js') ?>"></script>
+	<script src="<?= base_url('js/jquery.stellar.min.js') ?>"></script>
+	<script src="<?= base_url('js/owl.carousel.min.js') ?>"></script>
+	<script src="<?= base_url('js/jquery.magnific-popup.min.js') ?>"></script>
+	<script src="<?= base_url('js/jquery.animateNumber.min.js') ?>"></script>
+	<script src="<?= base_url('js/scrollax.min.js') ?>"></script>
 	<script
 		src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
-	<script src="js/google-map.js"></script>
+	<script src="<?= base_url('js/google-map.js') ?>"></script>
 
-	<script src="js/main.js"></script>
+	<script src="<?= base_url('js/main.js') ?>"></script>
 
 </body>
 
