@@ -55,7 +55,7 @@
 				<div class="container-fluid px-md-0">
 					<div class="row d-md-flex no-gutters slider-text align-items-end justify-content-end"
 						data-scrollax-parent="true">
-						<div class="one-third order-md-last img" style="background-image:url(images/bg_1.png);">
+						<div class="one-third order-md-last img" style="background-image:url(images/bg_1_1.jpg  );">
 							<div class="overlay"></div>
 							<div class="overlay-1"></div>
 						</div>
@@ -77,7 +77,7 @@
 				<div class="container-fluid px-md-0">
 					<div class="row d-flex no-gutters slider-text align-items-end justify-content-end"
 						data-scrollax-parent="true">
-						<div class="one-third order-md-last img" style="background-image:url(images/bg_1.png);">
+						<div class="one-third order-md-last img" style="background-image:url(images/bg_1_1.jpg );">
 							<div class="overlay"></div>
 							<div class="overlay-1"></div>
 						</div>
@@ -154,7 +154,7 @@
 					<div class="img-about img d-flex align-items-stretch">
 						<div class="overlay"></div>
 						<div class="img d-flex align-self-stretch align-items-center"
-							style="background-image:url(images/about-1.jpg);">
+							style="background-image:url(images/bg_1_1.jpg);">
 						</div>
 					</div>
 				</div>
